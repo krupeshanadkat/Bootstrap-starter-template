@@ -1,9 +1,10 @@
 # Bootstrap-Starter-Template
-
->Offline Use With Font Awesome
+>Includes Font Awesome
 
 [![BootStrap](https://img.shields.io/badge/Bootstrap%20Template-Download-orange.svg)](https://github.com/krupeshanadkat/Bootstrap-starter-template)
-[![usage](https://img.shields.io/badge/Usage-Offline-green.svg)]()
+[![usage](https://img.shields.io/badge/Usage-Offline-green.svg)](https://github.com/krupeshanadkat/Bootstrap-starter-template)
+[![author](https://img.shields.io/badge/Author-Krupesh%20Anadkat-blue.svg)](https://github.com/krupeshanadkat)
+
 
 ## Download
 * [Bootrap 4 stable starter.zip](https://github.com/krupeshanadkat/Bootstrap-starter-template/blob/master/Bootrap%204%20stable%20starter.zip) - The starter template for web development projects.
