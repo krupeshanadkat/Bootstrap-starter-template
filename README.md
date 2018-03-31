@@ -1,10 +1,9 @@
 # Bootstrap-Starter-Template
 
 >Offline Use With Font Awesome
-
+[![Build Status on CircleCI]
 
 ## Download
-* ![](Bootrap 4 stable starter.zip)
 * [Bootrap 4 stable starter.zip](https://github.com/krupeshanadkat/Bootstrap-starter-template/blob/master/Bootrap%204%20stable%20starter.zip) - The starter template for web development projects.
 
 
