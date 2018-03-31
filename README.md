@@ -1,9 +1,10 @@
+<div align="center">
 # Bootstrap-Starter-Template
 [![usage](https://img.shields.io/badge/Usage-Offline-green.svg)](https://github.com/krupeshanadkat/Bootstrap-starter-template)
 [![BootStrap](https://img.shields.io/badge/Bootstrap%20Template-Download-orange.svg)](https://github.com/krupeshanadkat/Bootstrap-starter-template)
 [![includes](https://img.shields.io/badge/Includes-Font%20Awesome-blue.svg)](https://fontawesome.com/)
 [![author](https://img.shields.io/badge/Author-Krupesh%20Anadkat-red.svg)](https://github.com/krupeshanadkat)
-
+</div>
 <br><br>
 
 ## Download
