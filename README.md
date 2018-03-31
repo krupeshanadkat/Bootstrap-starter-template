@@ -3,13 +3,17 @@
 Offline Use with Font Awesome
 
 
+## Download
+
+* [Bootrap 4 stable starter.zip](https://github.com/krupeshanadkat/Bootstrap-starter-template/blob/master/Bootrap%204%20stable%20starter.zip) - The starter template for a web development project
+
+
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Bootstrap v4.0](https://getbootstrap.com/) - Front-end Framework
+* [Font Awesome](https://fontawesome.com/) - Web-Icons. Easy. Done.
 
 
-## Authors
+## Author
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Krupesh Anadkat** -
