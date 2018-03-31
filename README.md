@@ -1,11 +1,11 @@
-# Bootstrap-starter-template
+# Bootstrap-Starter-Template
 
-Offline Use with Font Awesome
+Offline Use With Font Awesome
 
 
 ## Download
 
-* [Bootrap 4 stable starter.zip](https://github.com/krupeshanadkat/Bootstrap-starter-template/blob/master/Bootrap%204%20stable%20starter.zip) - The starter template for a web development project
+* [Bootrap 4 stable starter.zip](https://github.com/krupeshanadkat/Bootstrap-starter-template/blob/master/Bootrap%204%20stable%20starter.zip) - The starter template for web development projects.
 
 
 ## Built With
@@ -16,4 +16,4 @@ Offline Use with Font Awesome
 
 ## Author
 
-* **Krupesh Anadkat** -
+* **Krupesh M. Anadkat**
